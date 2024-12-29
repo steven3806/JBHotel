@@ -6,7 +6,7 @@
 
 #Facility {
   background:
-  url("商務.jpg"),
+  url("image/商務.jpg"),
     radial-gradient(circle, #777 30%, #ccc 70%),
     linear-gradient(to right, #999, #444);
   background-blend-mode: multiply, screen;
